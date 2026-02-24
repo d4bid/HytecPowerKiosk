@@ -9,7 +9,7 @@ import JC from '../assets/Devs/3.png';
 import Rhs from '../assets/Devs/4.png';
 
 import KP_QR from '../assets/Devs/LN/KP_QR.png'
-import JC_QR from '../assets/Devs/LN/JC_QR.png'
+import JC_QR from '../assets/Devs/LN/JC_QR2.png'
 import DV_QR from '../assets/Devs/LN/DV_QR.png'
 import { motion } from 'framer-motion';
 
